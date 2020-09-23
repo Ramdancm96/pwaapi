@@ -1,0 +1,23 @@
+{
+"product":
+[{"id":1,"name":"Red lava crab","category":"Mauv"},
+{"id":2,"name":"Crowned eagle","category":"Maroon"},
+{"id":3,"name":"Steller sea lion","category":"Yellow"},
+{"id":4,"name":"Pintail, bahama","category":"Aquamarine"},
+{"id":5,"name":"Wallaby, euro","category":"Yellow"},
+{"id":6,"name":"Crake, african black","category":"Goldenrod"},
+{"id":7,"name":"Nubian bee-eater","category":"Violet"},
+{"id":8,"name":"Asian false vampire bat","category":"Puce"},
+{"id":9,"name":"Swainson's francolin","category":"Crimson"},
+{"id":10,"name":"Coot, red-knobbed","category":"Mauv"},
+{"id":11,"name":"Vulture, griffon","category":"Pink"},
+{"id":12,"name":"Tayra","category":"Aquamarine"},
+{"id":13,"name":"Gulls (unidentified)","category":"Fuscia"},
+{"id":14,"name":"Gull, herring","category":"Purple"},
+{"id":15,"name":"Swainson's francolin","category":"Violet"},
+{"id":16,"name":"Kangaroo, eastern grey","category":"Khaki"},
+{"id":17,"name":"Red squirrel","category":"Puce"},
+{"id":18,"name":"Common mynah","category":"Pink"},
+{"id":19,"name":"Sloth, two-toed tree","category":"Violet"},
+{"id":20,"name":"Hawk, ferruginous","category":"Mauv"}]
+}
